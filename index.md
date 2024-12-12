@@ -1,12 +1,12 @@
-# Hello World
+# Dan Nguyen's Portfolio
 
-This is my home page! My name is Dan Nguyen and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science
+This is my home page! My name is Dan Nguyen and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science and I plan on graduating in 2028.
 
 ## Computer Science Projects
 
 My GitHub page is https://github.com/DanNguyen2006.
 
-### CPSC 120
+### Favorite CPSC 120L Labs
 
 * Lab 1
 
@@ -17,7 +17,7 @@ My GitHub page is https://github.com/DanNguyen2006.
     in a text that greeted us, it was veryfun coding with me and
     my first group.
 
-* Lab 5
+* Lab 5, Part 1
 
     Lab 5, part 1 is one of my favorites because I got to code
     something that defines a set of functions to convert a volume
